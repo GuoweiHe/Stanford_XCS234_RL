@@ -122,6 +122,8 @@ def value_iteration(R, T, gamma, tol=1e-3):
     policy = None
     ############################
     ### START CODE HERE ###
+    
+    a =
     ### END CODE HERE ###
     ############################
     return value_function, policy
